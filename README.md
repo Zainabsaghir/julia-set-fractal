@@ -41,6 +41,6 @@ python julia_set.py
 ![Julia Set Animation](julia_animation.gif)
 
 ## Student Information
-- Name: <YOUR NAME>
-- Registration Number: <YOUR REG NUMBER>
-- Course / Lab: <COURSE NAME AND LAB TITLE>
+- Name: Zainab Saghir
+- Registration Number: 550883
+- Course / Lab: Artifitial Intelligence
